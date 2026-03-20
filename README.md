@@ -3,6 +3,11 @@
 Element Craft is an Infinite Craft-style web game built with React + TypeScript + Vite.
 Players start with base elements and combine them to discover new ones.
 
+## Screenshot
+
+![Element Craft gameplay screenshot](./docs/element-craft-screenshot.png)
+<!-- Save the screenshot file at docs/element-craft-screenshot.png -->
+
 ## Tech Stack
 
 - React 19
