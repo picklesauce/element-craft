@@ -71,12 +71,12 @@ Players start with base elements and combine them to discover new ones.
 - `GEMINI_API_KEY` - required API key used by Vite server middleware
 - `GEMINI_MODEL` - Gemini model name (default currently `gemini-2.5-flash`)
 
-## Security and Public Repos
+## Security
 
-- Do not commit `.env` or any real secrets.
-- Keep keys in local `.env` only.
-- Use `.env.example` for placeholders and onboarding.
-- If a key is ever exposed, revoke and rotate it immediately.
+- Never commit `.env` or real credentials.
+- Keep API keys in local environment files only.
+- Commit `.env.example` with placeholder values for onboarding.
+- If a key is exposed, revoke and rotate it immediately.
 
 ## Notes
 
